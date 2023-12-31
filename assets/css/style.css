@@ -1,0 +1,14 @@
+#education > h2 {
+  font-size: 3em;
+}
+
+.introduce .description > i {
+  font-size: 1.5em;
+  color: black;
+}
+
+.introduce .description > span {
+  text-align: center;
+  font-size: 1.3em;
+  font-family: cursive;
+}
